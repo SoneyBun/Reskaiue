@@ -14,7 +14,8 @@
 <!-- Divider -->
 ---
 
-<!-- Footer -->
+<!-- Alignment -->
 <div align="center">
+  <!-- Footer -->
   Independence DSAI 2025-26
 </div>
